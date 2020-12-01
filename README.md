@@ -1,0 +1,2 @@
+# google-moon_facing-epic-steam_metaleptic
+Use your brain to shoot'em nasty ads. This poetic title says everything you have to know about this game produced for the Game Off Game Jam 2020. It's basically a recursive advertisement for a recursive game engine in development.   You're a triangle with Koch flake tendencies and superpowers. You shoot META and PATA bullets in order to destroy evil ads from the gaming industry. Then, you fight the three giants. And again, until you manage going META yourself, which might happen only if you train yourself properly. 
